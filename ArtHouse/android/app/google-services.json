@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1077723658918",
+    "firebase_url": "https://arthouse-21fd0.firebaseio.com",
+    "project_id": "arthouse-21fd0",
+    "storage_bucket": "arthouse-21fd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077723658918:android:737b95a130fa3a1a",
+        "android_client_info": {
+          "package_name": "com.arthouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077723658918-137b4amsu2nggeesm957gb33l8llu1qf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB01lCsh_Ww-JQxfwAKsCzYCjLBBK0Ml0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077723658918-137b4amsu2nggeesm957gb33l8llu1qf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
